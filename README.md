@@ -8,8 +8,6 @@
 
 <p>This AI Research Assistant leverages Retrieval-Augmented Generation (RAG) to provide accurate, context-aware responses to research queries. The system combines multiple LLMs with vector search capabilities, allowing you to ask questions about uploaded documents, search academic papers, and gather information from the web.</p>
 
-<p><strong><a href="https://huggingface.co/spaces/majorSeaweed/Research-Assistant-RAG">Try it live on HuggingFace Spaces</a></strong></p>
-
 <h2>✨ Features</h2>
 
 <ul>
