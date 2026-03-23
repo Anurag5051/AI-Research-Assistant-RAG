@@ -1,13 +1,5 @@
 <h1>AI Research Assistant with RAG</h1>
 
-<p>
-  <a href="https://huggingface.co/spaces/majorSeaweed/Research-Assistant-RAG"><img src="https://img.shields.io/badge/🤗%20Deployed%20on-HuggingFace%20Spaces-blue" alt="Deployed on HuggingFace"></a>
-  <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.8%2B-blue" alt="Python Version"></a>
-  <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" alt="CC BY-SA 4.0 License"></a>
-
-
-</p>
-
 <p align="center">
   <img width="1440" alt="image" src="https://github.com/user-attachments/assets/f09fbe93-4235-4bf0-bd91-339320d1dd69" />
 </p>
